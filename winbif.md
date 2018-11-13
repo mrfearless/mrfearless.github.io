@@ -53,6 +53,6 @@ All settings can be modified by the options dialog or by directly editing the `W
 
 ## Downloads
 
-- [WinBif Readme](\release\apps\winbif-readme.txt?raw=true)
-- [WinBif Setup](\release\apps\winbif-setup.exe?raw=true)
-- [WinBif Help](\release\apps\winbif.chm?raw=true)
+- [WinBif Readme](https://github.com/mrfearless/mrfearless.github.io/blob/master/release/apps/winbif-readme.txt?raw=true)
+- [WinBif Setup](https://github.com/mrfearless/mrfearless.github.io/blob/master/release/apps/winbif-setup.exe?raw=true)
+- [WinBif Help](https://github.com/mrfearless/mrfearless.github.io/blob/master/release/apps/winbif.chm?raw=true)
