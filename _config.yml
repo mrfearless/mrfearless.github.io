@@ -16,7 +16,7 @@
 title: mrfearless
 email: fearless.is.my.name@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  twitter: <a href="https://twitter.com/fearless0">@mrfearless</a><br>Website: <a href="http://www.letthelight.in/">www.LetTheLight.in</a><br><img src="https://mrfearless.github.io/images/mrfearless.png" alt="mrfearless">
+  twitter: <a href="https://twitter.com/fearless0">@mrfearless</a><br><img src="https://mrfearless.github.io/images/mrfearless.png" alt="mrfearless">
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
